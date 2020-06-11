@@ -13,9 +13,3 @@
 ### STEP03 根据分类后的颜色，返回搭配的其他⾊彩
 
 举例:可以预先设定色彩搭配模板，也可以根据色彩规律计算，还可以有哪些⽅法？
-
-## 说明
-
-### 颜色模型
-
-![color model](https://raw.githubusercontent.com/zhuojg/hacking-design-ai-2020/master/level02-1/images/colors.png)
