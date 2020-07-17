@@ -3,6 +3,6 @@
 *checkpoints*
 .vscode
 *.h5*
-level02-2/data
 *.pb*
-level02-3/opencv-text-detection
+*海报*
+__pycache__
